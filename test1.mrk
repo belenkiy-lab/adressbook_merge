@@ -1,0 +1,20 @@
+<addressBook version="9.5.5" encoding="utf-8" lastModified="2024-08-09T12:53:54.755Z">
+<contact>
+<guid><![CDATA[45a41a30af654076ab95e96ac966c63f]]></guid>
+<modified>2022-03-21 10:33:19</modified>
+<firstName><![CDATA[Евгений]]></firstName>
+<lastName><![CDATA[Юркин]]></lastName>
+<fullName><![CDATA[Евгений Юркин]]></fullName>
+<email><![CDATA[Evgeniy.Yurkin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[99e8435df5854b25a2a9649654e5b2dc]]></guid>
+<modified>2022-03-21 10:33:19</modified>
+<firstName><![CDATA[Александр]]></firstName>
+<lastName><![CDATA[Яровов]]></lastName>
+<fullName><![CDATA[Александр Яровов]]></fullName>
+<email><![CDATA[Aleksandr.Yarovov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+</addressBook>

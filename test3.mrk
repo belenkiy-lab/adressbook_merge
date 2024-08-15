@@ -1,0 +1,695 @@
+<addressBook version="9.5.5" encoding="utf-8" lastModified="2024-08-09T12:53:54.755Z">
+<contact>
+<guid><![CDATA[49a280fd9a294c01a31257488a1cb06e]]></guid>
+<modified>2022-03-18 15:49:30</modified>
+<firstName><![CDATA[sysmanager]]></firstName>
+<fullName><![CDATA[sysmanager]]></fullName>
+<email><![CDATA[sysmanager@bit-sys.ru]]></email>
+</contact>
+<contact>
+<guid><![CDATA[ad458eacf37a45bd8e489d12d400c53e]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Тимур]]></firstName>
+<lastName><![CDATA[Бутолин]]></lastName>
+<fullName><![CDATA[Тимур Бутолин]]></fullName>
+<email><![CDATA[Timur.Butolin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[29da91a7c350447f9a40268c70c866a2]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Денис]]></firstName>
+<lastName><![CDATA[Богданский]]></lastName>
+<fullName><![CDATA[Денис Богданский]]></fullName>
+<email><![CDATA[Denis.Bogdanskiy@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[514824b3fa37408a9d5b5a4ac79e3d2f]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Инна]]></firstName>
+<lastName><![CDATA[Гробер]]></lastName>
+<fullName><![CDATA[Инна Гробер]]></fullName>
+<email><![CDATA[Inna.Grober@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[9a42708d747f4cdaa3d7c6031b08b96f]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Андрей]]></firstName>
+<lastName><![CDATA[Лемзяков]]></lastName>
+<fullName><![CDATA[Андрей Лемзяков]]></fullName>
+<email><![CDATA[Andrey.Lemzyakov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[574a41c7e97141d6b9cfff785410bc8e]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Евгений]]></firstName>
+<lastName><![CDATA[Мышев]]></lastName>
+<fullName><![CDATA[Евгений Мышев]]></fullName>
+<email><![CDATA[Evgeniy.Myshev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[558d440b372c4ab496d31b5ffc790fed]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Галина]]></firstName>
+<lastName><![CDATA[Рябова]]></lastName>
+<fullName><![CDATA[Галина Рябова]]></fullName>
+<email><![CDATA[Galina.Ryabova@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[b7cc7f735ad94d0d9ed5bb5293655f22]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Денис]]></firstName>
+<lastName><![CDATA[Семёнов]]></lastName>
+<fullName><![CDATA[Денис Семёнов]]></fullName>
+<email><![CDATA[Denis.Semenov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[bc54d4f886094e939d5f3aa7df7d873b]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Вартан]]></firstName>
+<lastName><![CDATA[Тумасов]]></lastName>
+<fullName><![CDATA[Вартан Тумасов]]></fullName>
+<email><![CDATA[Vartan.Tumasov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[33955fb2ed8e4f13a9ae7d76f4e0901d]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Дмитрий]]></firstName>
+<lastName><![CDATA[Фролов]]></lastName>
+<fullName><![CDATA[Дмитрий Фролов]]></fullName>
+<email><![CDATA[Dmitriy.Frolov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[74e701fdbd2744a9a4c0de782808568e]]></guid>
+<modified>2022-04-18 15:06:54</modified>
+<firstName><![CDATA[Дмитрий]]></firstName>
+<lastName><![CDATA[Цуйман]]></lastName>
+<fullName><![CDATA[Дмитрий Цуйман]]></fullName>
+<email><![CDATA[Dmitriy.Tsuyman@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969
+portal#149277]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[09d964922a7b480183dd0849d6cf9da1]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Сергей]]></firstName>
+<lastName><![CDATA[Панин]]></lastName>
+<fullName><![CDATA[Сергей Панин]]></fullName>
+<email><![CDATA[Sergey.Panin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[9782cc6ffd0144fd8e46c9edd0eddbd2]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Рушан]]></firstName>
+<lastName><![CDATA[Салахетдинов]]></lastName>
+<fullName><![CDATA[Рушан Салахетдинов]]></fullName>
+<email><![CDATA[Rushan.Salakhetdinov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[8a6c068256dc448ba47f2f2597872769]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Сергей]]></firstName>
+<lastName><![CDATA[Сметанин]]></lastName>
+<fullName><![CDATA[Сергей Сметанин]]></fullName>
+<email><![CDATA[Sergey.Smetanin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[5cbf5a8408c4471bb09450ce1b1728c1]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Андрей]]></firstName>
+<lastName><![CDATA[Даценко]]></lastName>
+<fullName><![CDATA[Андрей Даценко]]></fullName>
+<email><![CDATA[Andrey.Datsenko@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[ff0e25f64ada4847a41d373e6926b7f8]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Константин]]></firstName>
+<lastName><![CDATA[Горлов]]></lastName>
+<fullName><![CDATA[Константин Горлов]]></fullName>
+<email><![CDATA[Konstantin.Gorlov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[80ace517f7b3453b975eaef244574f9d]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Владимир]]></firstName>
+<lastName><![CDATA[Калиниченко]]></lastName>
+<fullName><![CDATA[Владимир Калиниченко]]></fullName>
+<email><![CDATA[Vladimir.Kalinichenko@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[4498c9368ecd440798e4a51a73b8e516]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Дмитрий]]></firstName>
+<lastName><![CDATA[Осадчий]]></lastName>
+<fullName><![CDATA[Дмитрий Осадчий]]></fullName>
+<email><![CDATA[Dmitriy.Osadchiy@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[b9bafa95167746e884319267940fb71f]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Андрей]]></firstName>
+<lastName><![CDATA[Михайлов]]></lastName>
+<fullName><![CDATA[Андрей Михайлов]]></fullName>
+<email><![CDATA[Andrey.Mikhaylov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[f79110a2973b4ecfb2dc76e53475ce78]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Максим]]></firstName>
+<lastName><![CDATA[Борисенко]]></lastName>
+<fullName><![CDATA[Максим Борисенко]]></fullName>
+<email><![CDATA[Maksim.Borisenko@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[24485f3ae16d4fc09e46d56109def447]]></guid>
+<modified>2022-03-21 10:33:21</modified>
+<firstName><![CDATA[Александр]]></firstName>
+<lastName><![CDATA[Варенников]]></lastName>
+<fullName><![CDATA[Александр Варенников]]></fullName>
+<email><![CDATA[Aleksandr.Varennikov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[97738ed8a7c242bd9817ad4790efa71c]]></guid>
+<modified>2022-03-21 10:33:21</modified>
+<firstName><![CDATA[Станислав]]></firstName>
+<lastName><![CDATA[Кудряшов]]></lastName>
+<fullName><![CDATA[Станислав Кудряшов]]></fullName>
+<email><![CDATA[Stanislav.Kudryashov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[367d24ce5e644dfe9312dba4e47a0eaa]]></guid>
+<modified>2022-03-21 10:33:21</modified>
+<firstName><![CDATA[Дмитрий]]></firstName>
+<lastName><![CDATA[Нарков]]></lastName>
+<fullName><![CDATA[Дмитрий Нарков]]></fullName>
+<email><![CDATA[Dmitriy.Narkov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[3846f4bebb804c94907b2891a07e79bd]]></guid>
+<modified>2022-03-21 10:33:21</modified>
+<firstName><![CDATA[Вячеслав]]></firstName>
+<lastName><![CDATA[Семин]]></lastName>
+<fullName><![CDATA[Вячеслав Семин]]></fullName>
+<email><![CDATA[Vyacheslav.Semin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[59db2d5fff7044739f95a2eb233ca307]]></guid>
+<modified>2022-03-21 10:33:21</modified>
+<firstName><![CDATA[Виктор]]></firstName>
+<lastName><![CDATA[Скворцов]]></lastName>
+<fullName><![CDATA[Виктор Скворцов]]></fullName>
+<email><![CDATA[Viktor.Skvortsov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[805bf6cbcd3843fe9ebfd1ca06ab65b3]]></guid>
+<modified>2022-03-21 10:33:21</modified>
+<firstName><![CDATA[Денис]]></firstName>
+<lastName><![CDATA[Шаманов]]></lastName>
+<fullName><![CDATA[Денис Шаманов]]></fullName>
+<email><![CDATA[Denis.Shamanov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[8f0c9a7702e14e2ab1bd2f38ba0f6f5e]]></guid>
+<modified>2022-04-08 15:41:48</modified>
+<firstName><![CDATA[Владимир]]></firstName>
+<lastName><![CDATA[Черданцев]]></lastName>
+<fullName><![CDATA[Владимир Черданцев]]></fullName>
+<email><![CDATA[Vladimir@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[20f08d8130294070bdcabded91496b4b]]></guid>
+<modified>2022-03-21 10:33:21</modified>
+<firstName><![CDATA[Алексей]]></firstName>
+<lastName><![CDATA[Астафьев]]></lastName>
+<fullName><![CDATA[Алексей Астафьев]]></fullName>
+<email><![CDATA[Aleksey.Astafev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[33017ea18e4841ce800123494468def7]]></guid>
+<modified>2022-03-21 10:33:21</modified>
+<firstName><![CDATA[Евгений]]></firstName>
+<lastName><![CDATA[Першин]]></lastName>
+<fullName><![CDATA[Евгений Першин]]></fullName>
+<email><![CDATA[Evgeniy.Pershin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[f9929fc7f08344ad93194b502320b653]]></guid>
+<modified>2022-03-22 14:12:15</modified>
+<firstName><![CDATA[rua]]></firstName>
+<fullName><![CDATA[rua]]></fullName>
+<email><![CDATA[rua@bit-sys.ru]]></email>
+<comment><![CDATA[For DMARK]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[37ed8ec1beae4049baebb8c55879e49d]]></guid>
+<modified>2022-03-22 14:13:05</modified>
+<firstName><![CDATA[ruf]]></firstName>
+<fullName><![CDATA[ruf]]></fullName>
+<email><![CDATA[ruf@bit-sys.ru]]></email>
+<comment><![CDATA[For DMARK]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[979c17a8042f4b9ba2c7dd3962bc015b]]></guid>
+<modified>2022-04-25 10:30:15</modified>
+<firstName><![CDATA[Александр]]></firstName>
+<lastName><![CDATA[Крюков]]></lastName>
+<fullName><![CDATA[Александр Крюков]]></fullName>
+<email><![CDATA[Aleksandr.Kryukov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#149557]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[3545f20b162a4d00b150697485f3522f]]></guid>
+<modified>2022-04-25 15:18:35</modified>
+<firstName><![CDATA[Александра]]></firstName>
+<lastName><![CDATA[Афанасьева]]></lastName>
+<fullName><![CDATA[Александра Афанасьева]]></fullName>
+<email><![CDATA[Aleksandra.Afanaseva@bit-sys.ru]]></email>
+<comment><![CDATA[portal#149684]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[fe62434f8bc146cba12fdb8c78a9a40a]]></guid>
+<modified>2022-05-23 11:06:14</modified>
+<firstName><![CDATA[Алексей]]></firstName>
+<lastName><![CDATA[Глазов]]></lastName>
+<fullName><![CDATA[Алексей Глазов]]></fullName>
+<email><![CDATA[Aleksey.Glazov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#151209]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[30ff36f537e64e429dc41dd283eec1c0]]></guid>
+<modified>2022-05-25 09:11:12</modified>
+<firstName><![CDATA[Вячеслав]]></firstName>
+<lastName><![CDATA[Лобачев]]></lastName>
+<fullName><![CDATA[Вячеслав Лобачев]]></fullName>
+<email><![CDATA[Vyacheslav.Lobachev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#151321]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[c5329a4dd19744d09a98345feb76960f]]></guid>
+<modified>2022-06-17 13:39:11</modified>
+<firstName><![CDATA[Игорь]]></firstName>
+<lastName><![CDATA[Песков]]></lastName>
+<fullName><![CDATA[Игорь Песков]]></fullName>
+<email><![CDATA[Igor.Peskov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#152915]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[90703c6e9ac54cbea5aedb31c669c20f]]></guid>
+<modified>2022-07-27 21:04:36</modified>
+<firstName><![CDATA[Юрий]]></firstName>
+<lastName><![CDATA[Крылов]]></lastName>
+<fullName><![CDATA[Юрий Крылов]]></fullName>
+<email><![CDATA[Yuriy.Krylov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[c11c17fc00ed45d5a1f0e8738ae717d9]]></guid>
+<modified>2022-08-03 17:34:08</modified>
+<firstName><![CDATA[ceo]]></firstName>
+<fullName><![CDATA[ceo]]></fullName>
+<email><![CDATA[ceo@bit-sys.ru]]></email>
+<comment><![CDATA[ceo]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[aebde33f8c254e6c8c46061782655bb4]]></guid>
+<modified>2022-08-05 17:15:24</modified>
+<firstName><![CDATA[Андрей]]></firstName>
+<lastName><![CDATA[Щекалев]]></lastName>
+<fullName><![CDATA[Андрей Щекалев]]></fullName>
+<email><![CDATA[Andrey.Shchekalev@bit-sys.ru]]></email>
+<comment><![CDATA[Portal#156160]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[3811225aa2454027af4910797e3f9d4a]]></guid>
+<modified>2022-08-17 23:18:16</modified>
+<firstName><![CDATA[info1c]]></firstName>
+<lastName><![CDATA[Mailing List]]></lastName>
+<fullName><![CDATA[info1c Mailing List]]></fullName>
+<email><![CDATA[info1c@bit-sys.ru]]></email>
+</contact>
+<contact>
+<guid><![CDATA[16ca410e720a4eb4895744f1dacf4ebe]]></guid>
+<modified>2022-09-16 13:25:48</modified>
+<firstName><![CDATA[Василий]]></firstName>
+<lastName><![CDATA[Стрекалов]]></lastName>
+<fullName><![CDATA[Василий Стрекалов]]></fullName>
+<email><![CDATA[Vasiliy.Strekalov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[44120d6f7eef4e8281d8ec21e573323c]]></guid>
+<modified>2022-09-22 11:26:41</modified>
+<firstName><![CDATA[Родионов]]></firstName>
+<lastName><![CDATA[Алексей]]></lastName>
+<fullName><![CDATA[Родионов Алексей]]></fullName>
+<email><![CDATA[Aleksey.Rodionov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#159152]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[a8107ad4c1af42f5900fe15c4837205d]]></guid>
+<modified>2022-11-14 09:24:47</modified>
+<firstName><![CDATA[Анастасия]]></firstName>
+<lastName><![CDATA[Кожевникова]]></lastName>
+<fullName><![CDATA[Анастасия Кожевникова]]></fullName>
+<email><![CDATA[Anastasiya.Kozhevnikova@bit-sys.ru]]></email>
+<comment><![CDATA[portal#162516]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[a35a368c67494fad83f0e28353872e3c]]></guid>
+<modified>2022-11-17 10:42:06</modified>
+<firstName><![CDATA[Самир]]></firstName>
+<lastName><![CDATA[Мамеев]]></lastName>
+<fullName><![CDATA[Самир Мамеев]]></fullName>
+<email><![CDATA[Samir.Mameev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#162836]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[e57af0530332425aab1e4dc0d39ad80f]]></guid>
+<modified>2022-11-24 13:15:28</modified>
+<firstName><![CDATA[Сергей]]></firstName>
+<lastName><![CDATA[Фадеев]]></lastName>
+<fullName><![CDATA[Сергей Фадеев]]></fullName>
+<email><![CDATA[Sergey.Fadeev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#163317]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[2142635142a5445f9736e1a9c71591b8]]></guid>
+<modified>2022-12-13 15:08:56</modified>
+<firstName><![CDATA[is23]]></firstName>
+<lastName><![CDATA[Mailing List]]></lastName>
+<fullName><![CDATA[is23 Mailing List]]></fullName>
+<email><![CDATA[is23@bit-sys.ru]]></email>
+</contact>
+<contact>
+<guid><![CDATA[fc718cb3c0cb4015adf141b26a94e407]]></guid>
+<modified>2023-01-10 14:30:27</modified>
+<firstName><![CDATA[Анастасия]]></firstName>
+<lastName><![CDATA[Юрина]]></lastName>
+<fullName><![CDATA[Анастасия Юрина]]></fullName>
+<email><![CDATA[Anastasiya.Yurina@bit-sys.ru]]></email>
+<comment><![CDATA[portal#166554]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[488e9b79310445eb9b81f4618480d991]]></guid>
+<modified>2023-02-10 12:01:03</modified>
+<firstName><![CDATA[Александр]]></firstName>
+<lastName><![CDATA[Колосов]]></lastName>
+<fullName><![CDATA[Александр Колосов]]></fullName>
+<email><![CDATA[Aleksandr.Kolosov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#168965]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[4d40e94cb8474421aa61d8098b08804a]]></guid>
+<modified>2023-02-20 13:24:42</modified>
+<firstName><![CDATA[Алексей]]></firstName>
+<lastName><![CDATA[Хозяйкин]]></lastName>
+<fullName><![CDATA[Алексей Хозяйкин]]></fullName>
+<email><![CDATA[Aleksey.Khozyaykin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#169648]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[e11cf154e7ac408b8efd00f5786a4291]]></guid>
+<modified>2023-03-13 14:35:05</modified>
+<firstName><![CDATA[Евгений]]></firstName>
+<lastName><![CDATA[Иванов]]></lastName>
+<fullName><![CDATA[Евгений Иванов]]></fullName>
+<email><![CDATA[Evgeniy.Ivanov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#170991]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[0c2a4eeb099b49e58b16269d4fc04565]]></guid>
+<modified>2023-03-22 16:01:42</modified>
+<firstName><![CDATA[Елизавета]]></firstName>
+<lastName><![CDATA[Окатова]]></lastName>
+<fullName><![CDATA[Елизавета Окатова]]></fullName>
+<email><![CDATA[Elizaveta.Okatova@bit-sys.ru]]></email>
+<comment><![CDATA[portal#171860]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[f2de7c80671c499295dc6a4b1d6511fb]]></guid>
+<modified>2023-03-30 15:38:24</modified>
+<firstName><![CDATA[Евгений]]></firstName>
+<lastName><![CDATA[Тураев]]></lastName>
+<fullName><![CDATA[Евгений Тураев]]></fullName>
+<email><![CDATA[Evgeniy.Turaev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#172425]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[6d6c8b918a53483db886bcb2ee9422f0]]></guid>
+<modified>2023-05-26 09:48:08</modified>
+<firstName><![CDATA[nosleepdiscount]]></firstName>
+<lastName><![CDATA[Mailing List]]></lastName>
+<fullName><![CDATA[nosleepdiscount Mailing List]]></fullName>
+<email><![CDATA[nosleepdiscount@bit-sys.ru]]></email>
+</contact>
+<contact>
+<guid><![CDATA[988ea4bacbfc4c35abe0fa67a94a3762]]></guid>
+<modified>2023-05-26 15:36:13</modified>
+<firstName><![CDATA[grafana]]></firstName>
+<fullName><![CDATA[grafana]]></fullName>
+<email><![CDATA[grafana@bit-sys.ru]]></email>
+<comment><![CDATA[portal#176902]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[cb6d302c350a4d22ae13d5aa57bce4e4]]></guid>
+<modified>2023-06-01 14:46:11</modified>
+<firstName><![CDATA[Alex]]></firstName>
+<lastName><![CDATA[Larin]]></lastName>
+<fullName><![CDATA[Alex Larin]]></fullName>
+<email><![CDATA[alex.larin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#GSA]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[0771c0cb97ba4f61819743db99fed52f]]></guid>
+<modified>2023-07-03 11:29:51</modified>
+<firstName><![CDATA[Радимир]]></firstName>
+<lastName><![CDATA[Мильков]]></lastName>
+<fullName><![CDATA[Радимир Мильков]]></fullName>
+<email><![CDATA[Radimir.Milkov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#180195]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[8ecf2cee50b0491fb7e1521051f38f4c]]></guid>
+<modified>2023-07-18 12:39:16</modified>
+<firstName><![CDATA[Светлана]]></firstName>
+<lastName><![CDATA[Костенко]]></lastName>
+<fullName><![CDATA[Светлана Костенко]]></fullName>
+<email><![CDATA[Svetlana.Kostenko@bit-sys.ru]]></email>
+<comment><![CDATA[portal#181523]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[812bfc89e52b4463b5b921b45a39c7d0]]></guid>
+<modified>2023-08-08 09:03:46</modified>
+<firstName><![CDATA[Андрей.Ачкасов]]></firstName>
+<fullName><![CDATA[Андрей.Ачкасов]]></fullName>
+<email><![CDATA[Andrey.Achkasov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#183819]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[42234771dd4c4556b95d6c5440ade6f9]]></guid>
+<modified>2023-08-21 14:55:13</modified>
+<firstName><![CDATA[Андрей]]></firstName>
+<lastName><![CDATA[Черкашин]]></lastName>
+<fullName><![CDATA[Андрей Черкашин]]></fullName>
+<email><![CDATA[Andrey.Cherkashin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#179629]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[af4f5a000b684cfe8d52dc0d7cc1b956]]></guid>
+<modified>2023-10-05 12:56:03</modified>
+<firstName><![CDATA[Анастасия]]></firstName>
+<lastName><![CDATA[Бондарь]]></lastName>
+<fullName><![CDATA[Анастасия Бондарь]]></fullName>
+<email><![CDATA[Anastasiya.Bondar@bit-sys.ru]]></email>
+<comment><![CDATA[portal#189556]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[32e2abb4df5440ff859512c21de7c570]]></guid>
+<modified>2023-11-24 10:14:02</modified>
+<firstName><![CDATA[Егор]]></firstName>
+<lastName><![CDATA[Тимофеев]]></lastName>
+<fullName><![CDATA[Егор Тимофеев]]></fullName>
+<email><![CDATA[Egor.Timofeev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#194742]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[3325d08f75ff434c936505ec1e8a064d]]></guid>
+<modified>2024-01-19 16:18:09</modified>
+<firstName><![CDATA[Шамиль]]></firstName>
+<lastName><![CDATA[Гарунов]]></lastName>
+<fullName><![CDATA[Шамиль Гарунов]]></fullName>
+<email><![CDATA[Shamil.Garunov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#199973]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[ca5c90bcc85d41caac1bfd5d46ed60cf]]></guid>
+<modified>2024-01-25 17:57:49</modified>
+<firstName><![CDATA[Артем]]></firstName>
+<lastName><![CDATA[Смирнов]]></lastName>
+<fullName><![CDATA[Артем Смирнов]]></fullName>
+<email><![CDATA[Artem.Smirnov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#200721]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[b79fcfe0f12640f8b8c7da68f5043e00]]></guid>
+<modified>2024-04-11 13:14:28</modified>
+<firstName><![CDATA[Александр]]></firstName>
+<lastName><![CDATA[Шпагин]]></lastName>
+<fullName><![CDATA[Александр Шпагин]]></fullName>
+<email><![CDATA[Aleksandr.Shpagin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#202256
+portal#209074]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[ac4fc95f05b740d29bfc83f2dfde03b9]]></guid>
+<modified>2024-02-29 12:03:20</modified>
+<firstName><![CDATA[Артур]]></firstName>
+<lastName><![CDATA[Алавердян]]></lastName>
+<fullName><![CDATA[Артур Алавердян]]></fullName>
+<email><![CDATA[Artur.Alaverdyan@bit-sys.ru]]></email>
+<comment><![CDATA[portal#204451]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[c83990ca1764477f87cd42ef518159b2]]></guid>
+<modified>2024-03-11 13:46:58</modified>
+<firstName><![CDATA[Дмитрий]]></firstName>
+<lastName><![CDATA[Стефанов]]></lastName>
+<fullName><![CDATA[Дмитрий Стефанов]]></fullName>
+<email><![CDATA[Dmitriy.Stefanov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#205454]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[25a0feadc38146e7b91d40af2e3c7160]]></guid>
+<modified>2024-03-26 15:02:08</modified>
+<firstName><![CDATA[Артур]]></firstName>
+<lastName><![CDATA[Хайдаршин]]></lastName>
+<fullName><![CDATA[Артур Хайдаршин]]></fullName>
+<email><![CDATA[Artur.Khaydarshin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#167476
+portal#206812]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[3f1db997924944d685994cb5035e1ce8]]></guid>
+<modified>2024-03-28 08:47:44</modified>
+<firstName><![CDATA[Иван]]></firstName>
+<lastName><![CDATA[Березин]]></lastName>
+<fullName><![CDATA[Иван Березин]]></fullName>
+<email><![CDATA[Ivan.Berezin@bit-sys.ru]]></email>
+<comment><![CDATA[portal#207319]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[64594473d53c450f96098c757fb9939e]]></guid>
+<modified>2024-04-03 09:36:23</modified>
+<firstName><![CDATA[Анастасия]]></firstName>
+<lastName><![CDATA[Гончарова]]></lastName>
+<fullName><![CDATA[Анастасия Гончарова]]></fullName>
+<email><![CDATA[Anastasiya.Goncharova@bit-sys.ru]]></email>
+<comment><![CDATA[portal#204630]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[71445ee327174f7d9772c6362713ad1c]]></guid>
+<modified>2024-04-17 20:56:37</modified>
+<firstName><![CDATA[bdit]]></firstName>
+<lastName><![CDATA[Mailing List]]></lastName>
+<fullName><![CDATA[bdit Mailing List]]></fullName>
+<email><![CDATA[bdit@bit-sys.ru]]></email>
+</contact>
+<contact>
+<guid><![CDATA[f4a25f2949a641e29cf85ff5f05cf73a]]></guid>
+<modified>2024-05-29 15:12:14</modified>
+<firstName><![CDATA[Андрей]]></firstName>
+<lastName><![CDATA[Гусятников]]></lastName>
+<fullName><![CDATA[Андрей Гусятников]]></fullName>
+<email><![CDATA[Andrey.Gusyatnikov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#95662]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[d2cfa9832ad24c9380cc502780890916]]></guid>
+<modified>2024-05-31 15:07:00</modified>
+<firstName><![CDATA[Эмиль]]></firstName>
+<lastName><![CDATA[Гадимов]]></lastName>
+<fullName><![CDATA[Эмиль Гадимов]]></fullName>
+<email><![CDATA[Emil.Gadimov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#215900]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[17418aa0af824106a36407a6dd6dd414]]></guid>
+<modified>2024-06-17 12:23:54</modified>
+<firstName><![CDATA[Дмитрий]]></firstName>
+<lastName><![CDATA[Арышев]]></lastName>
+<fullName><![CDATA[Дмитрий Арышев]]></fullName>
+<email><![CDATA[Dmitriy.Aryshev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#217857]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[bd332010bab44148bc546bc191bc778d]]></guid>
+<modified>2024-06-18 09:37:45</modified>
+<firstName><![CDATA[block.list.ip]]></firstName>
+<lastName><![CDATA[Mailing List]]></lastName>
+<fullName><![CDATA[block.list.ip Mailing List]]></fullName>
+<email><![CDATA[block.list.ip@bit-sys.ru]]></email>
+</contact>
+<contact>
+<guid><![CDATA[f9babedf25eb45de866d5522a0441b5c]]></guid>
+<modified>2024-07-22 09:52:11</modified>
+<firstName><![CDATA[Михаил]]></firstName>
+<lastName><![CDATA[Дасаев]]></lastName>
+<fullName><![CDATA[Михаил Дасаев]]></fullName>
+<email><![CDATA[Mikhail.Dasaev@bit-sys.ru]]></email>
+<comment><![CDATA[portal#221396"]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[f117bf7ea3ab44efb8045bf7e6c6c169]]></guid>
+<modified>2024-07-26 11:15:10</modified>
+<firstName><![CDATA[Олег]]></firstName>
+<lastName><![CDATA[Хоменко]]></lastName>
+<fullName><![CDATA[Олег Хоменко]]></fullName>
+<email><![CDATA[Oleg.Khomenko@bit-sys.ru]]></email>
+<comment><![CDATA[portal#222033]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[c6b53331518f40bf972611007638a780]]></guid>
+<modified>2024-07-29 11:14:45</modified>
+<firstName><![CDATA[Айрат]]></firstName>
+<lastName><![CDATA[Салахов]]></lastName>
+<fullName><![CDATA[Айрат Салахов]]></fullName>
+<email><![CDATA[Ayrat.Salakhov@bit-sys.ru]]></email>
+<comment><![CDATA[portal#173276]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[80df3dd59d7c4888a0f99b4249613aa1]]></guid>
+<modified>2024-08-09 15:53:54</modified>
+<firstName><![CDATA[Денис]]></firstName>
+<lastName><![CDATA[Яровой]]></lastName>
+<fullName><![CDATA[Денис Яровой]]></fullName>
+<email><![CDATA[Denis.Yarovoy@bit-sys.ru]]></email>
+<comment><![CDATA[portal223469]]></comment>
+</contact>
+</addressBook>

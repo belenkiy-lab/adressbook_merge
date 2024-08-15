@@ -1,0 +1,20 @@
+<addressBook version="9.5.5" encoding="utf-8" lastModified="2024-08-09T12:53:54.755Z">
+<contact>
+<guid><![CDATA[bbeb2de4e7d241c8984c389b5c3b9cc6]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Роман]]></firstName>
+<lastName><![CDATA[Павленко]]></lastName>
+<fullName><![CDATA[Роман Павленко]]></fullName>
+<email><![CDATA[Roman.Pavlenko@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+<contact>
+<guid><![CDATA[835b1cff4cbb46baaa9b32e3da7903d7]]></guid>
+<modified>2022-03-21 10:33:20</modified>
+<firstName><![CDATA[Михаил]]></firstName>
+<lastName><![CDATA[Пронив]]></lastName>
+<fullName><![CDATA[Михаил Пронив]]></fullName>
+<email><![CDATA[Mikhail.Proniv@bit-sys.ru]]></email>
+<comment><![CDATA[portal#146969]]></comment>
+</contact>
+</addressBook>
