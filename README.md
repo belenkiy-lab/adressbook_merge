@@ -1,4 +1,4 @@
-# Обьединение fдресных книг MDeamon
+# Обьединение адресных книг MDeamon
 [//]: #![Badge](https://github.com/belenkiy-lab/adressbook_merge/actions/workflows/main.yml/badge.svg)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/belenkiy-lab/adressbook_merge/main.yml?style=for-the-badge&logo=github&label=adressbook_merge)
 
